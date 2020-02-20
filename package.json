@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "ascii-art:toggle"
+    "atom-workspace": "ascii-art:convert"
   },
   "repository": "https://github.com/atom/ascii-art",
   "license": "MIT",
