@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
-    "ctrl-alt-o": "ascii-art:toggle"
+  "atom-text-editor": {
+    "ctrl-alt-a": "ascii-art:convert"
   }
 }
